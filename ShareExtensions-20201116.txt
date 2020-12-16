@@ -1,0 +1,32 @@
+Generated: Wed, 16 Dec 2020 12:29:03 GMT
+User Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+
+Extensions: 12
+- Google Переводчик: https://chrome.google.com/webstore/detail/aapbdbdomjkkjkaonfhkkikfgjllcleb
+   С помощью этого расширения, разработанного командой Google Переводчика, можно быстро переводить веб-страницы.
+- AdGuard Антибаннер: https://chrome.google.com/webstore/detail/bgnkhhnnamicmpeenaelnjfhikgbkllg
+   Непревзойденная защита от рекламы и всплывающих окон. Блокирует рекламу в VK (Вконтакте), Одноклассники, Facebook, на YouTube и других сайтах.
+- Share Extensions: https://chrome.google.com/webstore/detail/chdafcbnfkfenoeejpaeenpdamhmalhe
+   Export your favorite Google Chrome™ extensions as BBCode, HTML, Wiki, Markdown or text. Share extensions via Twitter, Google Mail™.
+- Правільны сцяг: https://chrome.google.com/webstore/detail/eblobdnhbollnjjnfigjobhldpfeiejd
+   Пашырэнне робіць беларускі сцяг бел-чырвона-белым на розных сайтах
+- Расширение для отключения Google Analytics: https://chrome.google.com/webstore/detail/fllaojicojecljbmefodhfapmkghcbnh
+   Передает в код JavaScript Google Analytics (ga.js) сведения о том, что не следует отправлять данные в Google Analytics.
+- IBA Opt-out (by Google): https://chrome.google.com/webstore/detail/gbiekjoijknlhijdjbaadobpkdhmoebb
+   Opt out of Google's interest-based ads as you browse the web with Chrome.
+- HTTPS Everywhere: https://chrome.google.com/webstore/detail/gcbommkclmclpchllfjekcdonpmejbdp
+   Зашифруйте сеть! Автоматически переключайтесь на безопасный протокол HTTPS там, где это возможно.
+- Protect My Choices: https://chrome.google.com/webstore/detail/hdgloanjhdcenjgiafkpbehddcnonlic
+   Helps preserve your opt-out choices for interest-based ads from companies participating in the DAA Self-Regulatory Program.
+- Suspicious Site Reporter: https://chrome.google.com/webstore/detail/jknemblkbdhdcpllfgbfekkdciegfboi
+   Extension for reporting suspicious sites to Safe Browsing.
+- View Image: https://chrome.google.com/webstore/detail/jpcmhcelnjdmblfmjabdeclccemkghjk
+   Возвращает в Google картинки кнопки' "Открыть в полном размере" и "Поиск по картинке".
+- Image Viewer: https://chrome.google.com/webstore/detail/kcljlcpbfbkapegpifkodjdmdllgdlmk
+   More than the default image viewer
+- PDF Viewer: https://chrome.google.com/webstore/detail/oemmndcbldboiebfnladdacbdfmadadm
+   Uses HTML5 to display PDF files directly in the browser.
+
+
+Exported with Share Extensions for Google Chrome™ - https://chrome.google.com/webstore/detail/chdafcbnfkfenoeejpaeenpdamhmalhe
+Buy me a coffee https://bit.ly/coffeeforprintminion
